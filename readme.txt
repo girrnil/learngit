@@ -2,4 +2,4 @@ git is a distributed version control system.
 git is free software distributed under the GPL.
 git has a mutable index called stae.
 Git tracks changes.
-My stupid boss still prefers SVN.
+Creating a new branch is quick.
